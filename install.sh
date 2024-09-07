@@ -6,7 +6,7 @@ set -e
 #                                                                                    #
 # Project 'pterodactyl-installer'                                                    #
 #                                                                                    #
-# Copyright (C) 2018 - 2024, Vilhelm Prytz, <vilhelm@prytznet.se>                    #
+# Copyright (C) 2018 - 2024, Farisoffc, <Farisstore393@gmail.com>                    #
 #                                                                                    #
 #   This program is free software: you can redistribute it and/or modify             #
 #   it under the terms of the GNU General Public License as published by             #
@@ -30,7 +30,7 @@ set -e
 
 export GITHUB_SOURCE="v1.1.0"
 export SCRIPT_RELEASE="v1.1.0"
-export GITHUB_BASE_URL="https://raw.githubusercontent.com/pterodactyl-installer/pterodactyl-installer"
+export GITHUB_BASE_URL="https://raw.githubusercontent.com/Farisofc/pterodactyl-installer"
 
 LOG_PATH="/var/log/pterodactyl-installer.log"
 
